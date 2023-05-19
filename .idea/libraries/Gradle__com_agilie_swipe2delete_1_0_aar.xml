@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.agilie:swipe2delete:1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-swipe2delete-1.0.aar/3545110bf5f9c28a0b590b37a4aca8db/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-swipe2delete-1.0.aar/3545110bf5f9c28a0b590b37a4aca8db/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.agilie/swipe2delete/1.0/e8449d338c44dce4a18db6d1fbd56555961b3d55/swipe2delete-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
